@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hycao.sqltocode.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hycao.sqltocode.MyBundle
 
 class MyApplicationService {
 
